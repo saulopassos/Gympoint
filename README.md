@@ -1,2 +1,2 @@
 # Gympoint
-Projeto criado para o treinamento goStack da RockeSeat.
+Projeto criado para o treinamento goStack9.0 da RockeSeat.
